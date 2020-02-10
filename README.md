@@ -1,5 +1,4 @@
 # XtreamPlatform Decoded
-<img src="https://github.com/FirezYT/Xtream-Addons/blob/master/Xtream-Addons.jpg?raw=true">
 
 Xtream Codes Platform Installer on Ubuntu 16 18 19
 
@@ -14,12 +13,10 @@ Xtream Codes Platform Installer on Ubuntu 16 18 19
 7. Fixed URL Stream : http//IP:PORT/USER/PASS/ID
 8. Import Database Xtreamcode V1 & V2
 9. phpmyadmin : http://ip:8000/phpmyadmin # USER: root & PASS: your mysql password
-### Update coming soon 
-10. Add series
-11. Active Code API and Apk Android 
-<br>	</br>
 
 <br>	</br>
+
+
 
    
 # Panel Installer 
@@ -42,9 +39,6 @@ Restart:
       sudo /etc/init.d/xtreamcodes start
 
 
-Type a message
 
 
 
-# License
-fuck them. im going to crack it
